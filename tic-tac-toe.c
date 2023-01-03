@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-
+//it is working//
 char board[3][3];
 const char PLAYER = 'x';
 const char COMPUTER = 'o';
